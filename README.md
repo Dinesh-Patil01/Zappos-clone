@@ -3,7 +3,7 @@
 
 ## Functionalities
 
-- Website is fully responsive for small, medium and large screen.
+- website is fully responsive for small, medium and large screen.
 
 - Register and login functionality working, and all the logic written in redux to handle authentication status across website. Each and every error message like user exists already or not, password mismatch, etc. are working properly.
 
@@ -11,7 +11,7 @@
 
 - Dynamic pages for men's and women's shopping
 
-- User can be able to filter products according to their need and all filters working with each other .
+- User can be able to filter products according to their need and all filters working with each other combinedly.
 
 - User can be able to add products in their cart and also increase or decrease or remove product in cart, all these crud operations working and handled with redux so that state will be maintained across website.
 
@@ -37,6 +37,7 @@
 
 - NPM
 
+- Heroku
 
 ### `Technologies`
 
@@ -62,8 +63,4 @@
 
 
 # Deployed Links
-
-- [Netlify]()
-
-- [GitHub]()
 
