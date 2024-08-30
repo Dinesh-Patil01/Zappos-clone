@@ -63,4 +63,5 @@
 
 
 # Deployed Links
-
+[Deployed] - zappos-clonedd.vercel.app
+[git hub] - 
