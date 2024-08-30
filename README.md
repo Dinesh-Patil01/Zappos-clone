@@ -63,5 +63,5 @@
 
 
 # Deployed Links
-[Deployed] - zappos-clonedd.vercel.app
-[git hub] - 
+[Deployed] - https://zappos-clonedd.vercel.app
+[git hub] - https://github.com/Dinesh-Patil01/Zappos-clone
